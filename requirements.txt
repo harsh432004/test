@@ -1,0 +1,10 @@
+aiortc
+av
+matplotlib
+numpy
+opencv-python-headless
+pydub
+streamlit
+streamlit_webrtc
+typing_extensions
+openpyxl
